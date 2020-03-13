@@ -1,8 +1,7 @@
-﻿
-using System.Threading;
+﻿using System.Threading;
 using Meadow;
 
-namespace Displays.ePaper.IL0373_Sample
+namespace Sensors.Light.Veml7700_Sample
 {
     class Program
     {
